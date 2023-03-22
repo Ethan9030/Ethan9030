@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ethan9030)](https://git.io/streak-stats)
+![Visitor Count](https://profile-counter.glitch.me/Ethan9030/count.svg)
+
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ethan9030&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
