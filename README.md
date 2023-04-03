@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ethan9030)](https://git.io/streak-stats)
-My![Visitor Count](https://profile-counter.glitch.me/Ethan9030/count.svg)visitor
+<!-- My![Visitor Count](https://profile-counter.glitch.me/Ethan9030/count.svg)visitor -->
 
 
 
